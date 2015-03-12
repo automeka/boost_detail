@@ -14,6 +14,7 @@
 
 #include <cstdlib> // for multi-byte converson routines
 #include <cassert>
+#include <codecvt>
 
 #include <boost/limits.hpp>
 #include <boost/config.hpp>

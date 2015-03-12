@@ -82,6 +82,7 @@
 #include <locale>
 #include <cwchar>   // for mbstate_t
 #include <cstddef>  // for std::size_t
+#include <fstream>  // for std::codecvt
 
 #include <boost/config.hpp>
 #include <boost/detail/workaround.hpp>
